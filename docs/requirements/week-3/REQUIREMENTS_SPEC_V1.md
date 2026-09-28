@@ -32,7 +32,7 @@ OUT: password resets, ticket creation, personal student records, voice, automati
 actions, and answers from unapproved material.
 
 ## 6. AI critique and human decision
-- ChatGPT suggestion: <ADD ONE SHORT SUGGESTION>
-- Claude suggestion: <ADD ONE SHORT SUGGESTION>
-- My decision: Accepted / Revised / Rejected
-- My reason: <EXPLAIN USING WEEK 2 EVIDENCE, SCOPE, OR TESTABILITY>
+- ChatGPT suggestion: Revise GR-01 so the cited approved source must support the answer, rather than merely be named.
+- Claude suggestion: Make SF-01’s rule for when to withhold an answer testable using questions with and without support in approved sources.
+- My decision: Accepted (Claude)
+- My reason: This allows for SF-01 to have a more testable guideline for what an insufficient source is to see whether or not CampusConnect correctly answers or withholds.
